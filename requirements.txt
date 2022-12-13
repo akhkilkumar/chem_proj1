@@ -5,4 +5,3 @@ numpy==1.23.5
 pandas==1.5.2
 matplotlib==3.6.2
 seaborn==0.11.2
-libxrender1==0.9.10
