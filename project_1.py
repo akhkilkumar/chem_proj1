@@ -16,7 +16,7 @@ from rdkit import Chem
 from rdkit.Chem import Descriptors
 from rdkit.Chem import Lipinski
 from rdkit.Chem import AllChem
-from rdkit.Chem import Draw
+#from rdkit.Chem import Draw
 from rdkit.Chem import PandasTools
 from rdkit.Chem import rdMolDescriptors
 from rdkit.Chem import Fragments
