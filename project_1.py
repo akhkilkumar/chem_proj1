@@ -4,9 +4,9 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-import pickle
+#import pickle
 import io
-from PIL import Image
+#from PIL import Image
 import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib import gridspec
@@ -15,9 +15,9 @@ from math import pi
 from rdkit import Chem
 from rdkit.Chem import Descriptors
 from rdkit.Chem import Lipinski
-from rdkit.Chem import AllChem
+#from rdkit.Chem import AllChem
 #from rdkit.Chem import Draw
-from rdkit.Chem import PandasTools
+#from rdkit.Chem import PandasTools
 from rdkit.Chem import rdMolDescriptors
 from rdkit.Chem import Fragments
 #for similarity
