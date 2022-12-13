@@ -64,7 +64,8 @@ with st.sidebar.header('1. For dual inhibitors'):
     st.sidebar.markdown("""[Example CSV input file])""")
 
 # get data from the file uploder in target1 and target2 
- 
+target1 = pd.DataFrame()
+target2 = pd.DataFrame()
 #get_data=pd.DataFrame()
 for i in range(len(uploaded_file)):
 	#st.write(uploaded_file[i].name)
